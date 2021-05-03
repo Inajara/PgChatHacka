@@ -1,4 +1,4 @@
-# Protótipo de página de Botchat 
+# Protótipo de página de Chatbot
 
 # Sobre o projeto
 
