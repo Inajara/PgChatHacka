@@ -1,3 +1,11 @@
-# PgChatHacka
+# Protótipo de página de Botchat 
 
-Esse foi um projeto desenvolvido no Hackathon WomenHacka da Sawee; o objetivo é apresentar uma ideia de projeto de bot capaz de interagir de modo mais similar a um ser humano, tornando o atendimento online mais assertivo com os clientes.
+# Sobre o projeto
+
+Um protótipo simples de chatbot apresentado no desafio de Hackathon da Shawee para a emresa Banco BGM.
+
+A aplicação consiste em uma representação da conversação entre o cliente e o bot, de maneira que o chat tenha a capacidade de interagir de maneira assertiva e personalizada de acordo com as necessidades e demanda do cliente, em especial mulheres empreendedoras.
+
+# Tecnologias utilizadas
+## Front end
+- HTML / CSS
